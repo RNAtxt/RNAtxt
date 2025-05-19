@@ -1,7 +1,8 @@
-### Hi there 👋
-
-yoo
-
+## ~ WELCOME TO MY GITHUB </> ~
+![RNA](img/rnatxt.png)
+*For Revenge*
+━━━━━━━━●──
+⇆ㅤ◁ㅤ❚❚ㅤ▷ㅤ↻
 <!--
 **RNAtxt/RNAtxt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
