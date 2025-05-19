@@ -1,8 +1,8 @@
 ## ~ WELCOME TO MY GITHUB </> ~
 ![RNA](img/rnatxt.png)
-*For Revenge*
+### *For Revenge*
 
-**━━━━━━━━●──**
+**━━━━━━━━●──**   
 
 **⇆ㅤ◁ㅤ❚❚ㅤ▷ㅤ↻**
 
