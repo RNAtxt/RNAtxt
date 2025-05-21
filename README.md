@@ -18,7 +18,7 @@
 [![My Skills](https://skillicons.dev/icons?i=python,html,css,linux,react,arduino,&perline=3)](https://skillicons.dev)
 
 #### || follow my social media (●'◡'●)
-![https://www.instagram.com/reveiras?igsh=Nm5xb3J3MDZjOWtn](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+![https://www.instagram.com/reveiras](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 
 #### || I can do it 🧐
 ###### 🍀 *designing your github profile (custom)*
