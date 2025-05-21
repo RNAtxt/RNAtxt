@@ -19,7 +19,7 @@
 
 #### || follow my social media (●'◡'●)
 ![reveiras](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
-####  [IG](https://www.instagram.com/reveiras?igsh=Nm5xb3J3MDZjOWtn)
+###  [IG {\^o^}](https://www.instagram.com/reveiras?igsh=Nm5xb3J3MDZjOWtn)
 
 
 #### || I can do it 🧐
@@ -32,6 +32,12 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RNAtxt/RNAtxt/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/RNAtxt/RNAtxt/output/pacman-contribution-graph.svg">
 </picture>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/RNAtxt/count.svg?"  />
+</div>
 
 ###
 
