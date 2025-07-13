@@ -11,7 +11,7 @@
 
 ![image](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white) ![image](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ![image](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 
-![image](https://img.shields.io/badge/github%20copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white) ![image](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=blackbox&logoColor=white)
+![image](https://img.shields.io/badge/github%20copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white) ![image](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)
 
 
 
