@@ -2,7 +2,7 @@
 
 ![RNA](img/rnatxt.png)
 
-### <p align="center"> _For Revenge🤙_ </p>
+### <p align="center"> _A7X🤙_ </p>
 
 <p align="center"> ━━━━━━━━●── </p>
 <p align="center">⇆ㅤ◁ㅤ❚❚ㅤ▷ㅤ↻ </p>
@@ -18,8 +18,8 @@
 [![My Skills](https://skillicons.dev/icons?i=python,html,css,linux,react,arduino,javascript,&perline=3)](https://skillicons.dev)
 
 ### || follow my social media (●'◡'●)
-![reveiras](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
-###  [IG {\^o^}](https://www.instagram.com/reveiras?igsh=Nm5xb3J3MDZjOWtn)
+![rvsmurf](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+###  [IG {\^o^}](https://www.instagram.com/rvsmurf?igsh=Nm5xb3J3MDZjOWtn)
 
 
 ### || I can do it 🧐
